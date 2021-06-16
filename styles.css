@@ -1,0 +1,29 @@
+    
+header{
+  width:80%;
+  height:50px;
+  padding: 10px;
+  background-color: rgb(51, 51, 48);
+}
+
+.nav-menu li {
+  display: inline-block;
+  width:80%;
+  height:50px;
+  padding: 5px;
+  background-color: grey;
+}
+
+.section-top{
+  width:80%,
+  display:inline-block;
+  padding: 5px;
+  background-color: grey;
+
+}
+
+footer {
+  width: 80%;
+  height: 50px;
+  background-color: rgb(63, 59, 59);
+}
